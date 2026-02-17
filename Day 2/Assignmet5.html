@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignmet 5</title>
+
+</head>
+<body>
+
+    <header>
+        <h1>Bank</h1>
+        <nav>
+            <a href="#">Home</a> |
+            <a href="#">Accounts</a> |
+            <a href="#">Loans</a> |
+            <a href="#">Contact</a>
+        </nav>
+        <hr>
+    </header>
+
+    <main>
+        <section>
+            <h2>Saving Account Open</h2>
+            <form action="">
+                <label for="">Full Name</label>
+                <input type="text" name="fullname" required>
+                <br><br>
+
+                <label for="">Email</label>
+                <input type="email" name="email" required>
+                <br><br>
+
+                <label for="">Phone Number</label>
+                <input type="tel" name="phone" pattern="[0-9]{10}" placeholder="10 digit Number" required><br><br>
+
+                 <label for="pan">PAN Number:</label><br>
+                <input type="text" id="pan" name="pan"
+                       pattern="[A-Z]{5}[0-9]{4}[A-Z]{1}"
+                       placeholder="ABCDE1234F"
+                       required>
+                <br><br>
+
+                <label for="ifsc">IFSC Code:</label><br>
+                <input type="text" id="ifsc" name="ifsc"
+                       pattern="[A-Za-z]{4}[0-9]{7}"
+                       placeholder="SBIN0001234"
+                       required>
+                <br><br>
+
+                 <label for="accountType">Account Type:</label><br>
+                <input list="accounts" id="accountType" name="accountType" required>
+                <br>
+
+                <datalist id="accounts">
+                    <option value="Savings Account">
+                    <option value="Salary Account">
+                    <option value="Student Account">
+                    <option value="Senior Citizen Account">
+                </datalist>
+                <br><br>
+
+                <label for="dob">Date of Birth:</label><br>
+                <input type="date" id="dob" name="dob"
+                       max="2008-12-31"
+                       required>
+                <br><br>
+
+                <label for="income">Monthly Income (INR):</label><br>
+                <input type="number" id="income" name="income"
+                       min="0"
+                       step="1000"
+                       required>
+                <br><br>
+
+                 <label for="idproof">Upload ID Proof:</label><br>
+                <input type="file" id="idproof" name="idproof" required>
+                <br><br>
+
+                <button type="submit">Submit Application</button>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <hr>
+        <p>&copy; 2026 Bank | All Rights Reserved</p>
+    </footer>
+
+    
+</body>
+</html>

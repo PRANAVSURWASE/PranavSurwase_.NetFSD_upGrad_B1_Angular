@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 2</title>
+</head>
+<body>
+    <header>
+        <h1>Hospital</h1>
+        <nav>
+            <a href="#"> Home</a>|
+            <a href="#">Department</a>|
+            <a href="#">Doctors</a>|
+            <a href="#">Contact</a>|
+        </nav>
+        <hr>
+    </header>
+
+    <main>
+        <section>
+            <h2>Book an Appoinment </h2>
+
+            <form action="">
+                <fieldset>
+                    <legend>Patient Information </legend>
+                    <legend>Patient Name :</legend><br>
+                    <input type="text" name="fullname" required placeholder="Enter Full name"><br><br>
+
+                    <legend>Age:</legend><br>
+                    <input type="number" name="age" min="1" max="100" required placeholder="Enter Age"><br><br>
+
+                    <legend>Phone Number:</legend><br>
+                    <input type="tel" name="phone" pattern ="[0-9]{10}"
+                    placeholder="10 -digit Mobile number" required>
+
+                    <legend>Email:</legend><br>
+                    <input type="email" name="email" placeholder="Enter Email" required><br><br>
+
+                </fieldset>
+
+                <br>
+                <fieldset>
+                    <legend>Appointment Details</legend>
+                    <label for=""> Select Department</label>
+                    <input list="departments" name="department" required>
+                    <datalist id="departments">
+                        <option value="
+                        Cardiology"></option>
+                        <option value="Neurology"></option>
+                        <option value="Orthopedics"></option>
+                        <option value="Pediatrics"></option>
+                        <option value="Dermatology"></option>
+                    </datalist>
+                    <br><br>
+
+                    <label for="">Preferred Doctor</label>
+                    <input list="doctors" name="doctor" required>
+
+                    <datalist id="doctors">
+                        <option value="Dr.Sharma">
+                        <option value="Dr.Kumar">
+                        <option value="Dr.Pandey">
+                        <option value="Dr.Singh">
+                        <option value="Dr.Verma">
+                    </datalist>
+                    <br><br>
+
+                    <label for="">Appointment date</label>
+                    <input type="date" name="date" min="2026-02-17" required><br><br>
+
+                    <label for=""> 
+                        <input type="checkbox" id="emergency">
+                        Emergency Case
+                    </label>
+                    <br><br>
+
+                    <label for="">Preferred Time</label><br>
+                    <input type="time" id="appointmentTime" name="time" required>
+                    <br>
+
+                </fieldset>
+                <fieldset>
+                    <legend>Medical Reports</legend>
+
+                    <label for="">Upload Reports:</label>
+                    <input type="file" name="reports" multiple required>
+                    <br><br>
+                </fieldset>
+
+                <br>
+                <input type="submit" value="Book Appointment">
+                
+            </form>
+            <footer>
+        <hr>
+        <p>&copy; 2026 CityCare Hospital | Emergency: 108</p>
+    </footer>
+        </section>
+    </main>
+    
+</body>
+</html>
