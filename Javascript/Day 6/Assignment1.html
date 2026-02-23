@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            font-family: Arial;
+            margin:0;
+            background-color: rgb(211, 236, 241);
+        }
+        nav{
+            display: flex;
+            justify-content: space-around;
+            background-color:#333;
+            
+        }
+        nav a{
+            text-decoration: none;
+            color: white;
+            font-size: 20px;
+        }
+        .content{
+            padding: 20px;
+            font-size: 20px;
+        }
+        @media(max-width:768px) {
+            body{
+                background-color:#f0f8ff; ;
+            }
+            nav{
+                flex-direction: column;
+                align-items: center;
+            }
+            nav a{
+                margin: 10px 0;
+                font-size: 16px;
+            }
+            .content{
+                font-size: 16px;
+            }
+
+
+
+            
+        }
+
+    </style>
+</head>
+<body>
+    <nav>
+        <a href="">Home</a>
+        <a href="">About</a>
+        <a href="">Services</a>
+        <a href="">Contact</a>
+    </nav>
+
+    <div class="content">
+        <h1>Responsive Webage</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati rerum autem officiis. Similique eius cumque, porro placeat itaque tenetur inventore earum ullam sapiente nostrum? Dignissimos earum quae fugit culpa quidem?</p>
+    </div>
+    
+</body>
+</html>
