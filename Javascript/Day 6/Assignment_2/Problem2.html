@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <h2>User Info </h2>
+    <button onClick="showUser()">Display User Info</button>
+
+    <div id="res"></div>
+
+
+    <script>
+        function showUser() {
+            var user = [{
+                name: "Pranav Surwase",
+                age: 23,
+                city: "Pune"
+            },
+            {
+                name: "Pratik Surwase",
+                age: 25,
+                city: "Pune"
+            },
+            {
+                name: "Surwase",
+                age: 26,
+                city: "Mumbai"
+            }
+            ]
+            displayUserInfo(user);
+
+        }
+        function displayUserInfo(userObj) {
+
+            var output = '';
+            for (var i = 0; i < userObj.length; i++) {
+
+
+                output =output + "<p>Name: " + userObj[i].name+"</p>"
+                output =output + "<p>Age: " + userObj[i].age+"</p>"
+                output =output + "<p>City: " + userObj[i].city+"</p>"
+
+            }
+            document.getElementById('res').innerHTML=output;
+        }
+    </script>
+</body>
+
+</html>

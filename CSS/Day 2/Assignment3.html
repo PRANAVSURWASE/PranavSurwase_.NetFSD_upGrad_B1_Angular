@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment 3</title>
+</head>
+<body>
+    <header>
+        <h1>Academy</h1>
+        <nav>
+            <a href="#">Home</a>|
+            <a href="#">Courses</a>|
+            <a href="#">Contact</a>|
+            <a href="#">About us</a>
+        </nav>
+    </header>
+
+    <main>
+        <section>
+            <h2>Course Details</h2>
+           <video width="300" height="300" controls>
+        <source src="v1.mp4" type="video/mp4">
+<source src="v1.mp4" type="video/webm">
+
+        <track src="subtitles.vtt" kind="subtitles" srclang="en" label="English" default>
+    </video>
+        </section>
+
+        <hr>
+        <section>
+            <h2>Register for Certification</h2>
+            <form action="">
+                <label for="">Full Name</label>
+                <input type="text" name="fullname" required>
+                <br><br>
+
+                <label for="">Select Course</label>
+                <input list="courses" name="course" required>
+                <datalist id="courses">
+                    <option value="Web Development"></option>
+                    <option value="Data Science"></option>
+                    <option value="Machine Learning"></option>
+                    <option value="Cloud Computing"></option>
+                    <option value="Cyber Security"></option>
+                    </datalist>
+                    <br><br>
+
+                    <label for=""> Batch Month:</label>
+                    <input type="month" name="batch" required><br><br>
+
+                    <label for="">preferred session time:</label><br>
+                    <input type="time" name="sessionTime" required>
+                    <br><br>
+
+                     <label>Rate Your Current Skill Level (0-100):</label><br>
+                <input type="range" name="skill" min="0" max="100" value="50">
+                <br><br>
+
+                <label>Enrollment Progress:</label><br>
+                <progress value="70" max="100"></progress>
+                <br><br>
+
+                <label>
+                    <input type="checkbox" required>
+                    I have watched the introduction video
+                </label>
+                <br><br>
+
+                <input type="submit" value="ENroll Now">
+            </form>
+        </section>
+    </main>
+
+        <footer>
+        <hr>
+        <p>&copy; 2026  Academy | All Rights Reserved</p>
+    </footer>
+
+    
+</body>
+</html>

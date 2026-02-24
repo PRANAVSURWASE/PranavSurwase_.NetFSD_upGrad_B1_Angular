@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h2>Student Profile </h2>
+    <button id="showBtn">Show Profile</button>
+    <button id="updateBtn"> Update Profile</button>
+
+
+    <div id="profileCard"></div>
+    <script>
+        var student = {
+            name: 'Pranav',
+            rollNo: 101,
+            marks: 82
+        };
+        function updateStudentProfile(studentObj) {
+            var output = '';
+            output += "<h3>Student Profile</h3>";
+            output += "<p><strong>Name:</strong>" + studentObj.name + "</p>"
+            output += "<p><strong>Roll No:</strong>" + studentObj.rollNo + "</p>"
+            output += "<p><strong>Marks:</strong>" + studentObj.marks + "</p>"
+
+            document.getElementById('profileCard').innerHTML=output;
+
+        }
+        function updateMarks(newMarks)
+        {
+            student.marks = newMarks;
+            updateStudentProfile(student);
+        }
+
+        document.getElementById('showBtn').addEventListener('click',function(){
+            updateStudentProfile(student)
+        });
+
+        document.getElementById('updateBtn').addEventListener('click',function(){
+            updateMarks(98);
+        })
+    </script>
+
+</body>
+
+</html>
