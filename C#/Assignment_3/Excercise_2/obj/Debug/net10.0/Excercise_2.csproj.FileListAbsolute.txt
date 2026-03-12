@@ -1,0 +1,15 @@
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\bin\Debug\net10.0\Excercise_2.exe
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\bin\Debug\net10.0\Excercise_2.deps.json
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\bin\Debug\net10.0\Excercise_2.runtimeconfig.json
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\bin\Debug\net10.0\Excercise_2.dll
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\bin\Debug\net10.0\Excercise_2.pdb
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\obj\Debug\net10.0\Excercise_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\obj\Debug\net10.0\Excercise_2.AssemblyInfoInputs.cache
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\obj\Debug\net10.0\Excercise_2.AssemblyInfo.cs
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\obj\Debug\net10.0\Excercise_2.csproj.CoreCompileInputs.cache
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\obj\Debug\net10.0\Excercise_2.sourcelink.json
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\obj\Debug\net10.0\Excercise_2.dll
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\obj\Debug\net10.0\refint\Excercise_2.dll
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\obj\Debug\net10.0\Excercise_2.pdb
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\obj\Debug\net10.0\Excercise_2.genruntimeconfig.cache
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_2\obj\Debug\net10.0\ref\Excercise_2.dll

@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS\\Pranav_Assignments\\C#\\Assignment_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F5D1CF-BB70-45F1-9BE6-4A59491ADDF0}|Assignment_3.csproj|d:\\cts\\pranav_assignments\\c#\\assignment_3\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F5D1CF-BB70-45F1-9BE6-4A59491ADDF0}|Assignment_3.csproj|solutionrelative:doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F5D1CF-BB70-45F1-9BE6-4A59491ADDF0}|Assignment_3.csproj|d:\\cts\\pranav_assignments\\c#\\assignment_3\\assignment_3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F1F5D1CF-BB70-45F1-9BE6-4A59491ADDF0}|Assignment_3.csproj|solutionrelative:assignment_3.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F5D1CF-BB70-45F1-9BE6-4A59491ADDF0}|Assignment_3.csproj|d:\\cts\\pranav_assignments\\c#\\assignment_3\\assignment_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1F5D1CF-BB70-45F1-9BE6-4A59491ADDF0}|Assignment_3.csproj|solutionrelative:assignment_3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1F5D1CF-BB70-45F1-9BE6-4A59491ADDF0}|Assignment_3.csproj|d:\\cts\\pranav_assignments\\c#\\assignment_3\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1F5D1CF-BB70-45F1-9BE6-4A59491ADDF0}|Assignment_3.csproj|solutionrelative:patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Assignment_3",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\Assignment_3\\Assignment_3.csproj",
+              "RelativeDocumentMoniker": "Assignment_3.csproj",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\Assignment_3\\Assignment_3.csproj",
+              "RelativeToolTip": "Assignment_3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T11:56:57.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Assignment_3",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\Assignment_3\\Assignment_3.csproj",
+              "RelativeDocumentMoniker": "Assignment_3.csproj",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\Assignment_3\\Assignment_3.csproj",
+              "RelativeToolTip": "Assignment_3.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T12:03:58.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\Assignment_3\\Doctor.cs",
+              "RelativeDocumentMoniker": "Doctor.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\Assignment_3\\Doctor.cs",
+              "RelativeToolTip": "Doctor.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAmwBAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:57:24.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\Assignment_3\\Patient.cs",
+              "RelativeDocumentMoniker": "Patient.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\Assignment_3\\Patient.cs",
+              "RelativeToolTip": "Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T11:46:54.896Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

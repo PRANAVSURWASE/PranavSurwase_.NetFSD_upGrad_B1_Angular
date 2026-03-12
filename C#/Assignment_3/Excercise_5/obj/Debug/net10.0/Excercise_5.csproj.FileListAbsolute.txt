@@ -1,0 +1,15 @@
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\bin\Debug\net10.0\Excercise_5.exe
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\bin\Debug\net10.0\Excercise_5.deps.json
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\bin\Debug\net10.0\Excercise_5.runtimeconfig.json
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\bin\Debug\net10.0\Excercise_5.dll
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\bin\Debug\net10.0\Excercise_5.pdb
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\obj\Debug\net10.0\Excercise_5.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\obj\Debug\net10.0\Excercise_5.AssemblyInfoInputs.cache
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\obj\Debug\net10.0\Excercise_5.AssemblyInfo.cs
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\obj\Debug\net10.0\Excercise_5.csproj.CoreCompileInputs.cache
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\obj\Debug\net10.0\Excercise_5.sourcelink.json
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\obj\Debug\net10.0\Excercise_5.dll
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\obj\Debug\net10.0\refint\Excercise_5.dll
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\obj\Debug\net10.0\Excercise_5.pdb
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\obj\Debug\net10.0\Excercise_5.genruntimeconfig.cache
+D:\CTS\Pranav_Assignments\C#\Assignment_3\Excercise_5\obj\Debug\net10.0\ref\Excercise_5.dll
