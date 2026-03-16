@@ -1,0 +1,15 @@
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\obj\Debug\net10.0\Assignment_6.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\obj\Debug\net10.0\Assignment_6.AssemblyInfoInputs.cache
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\obj\Debug\net10.0\Assignment_6.AssemblyInfo.cs
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\obj\Debug\net10.0\Assignment_6.csproj.CoreCompileInputs.cache
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\obj\Debug\net10.0\Assignment_6.sourcelink.json
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\bin\Debug\net10.0\Assignment_6.exe
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\bin\Debug\net10.0\Assignment_6.deps.json
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\bin\Debug\net10.0\Assignment_6.runtimeconfig.json
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\bin\Debug\net10.0\Assignment_6.dll
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\bin\Debug\net10.0\Assignment_6.pdb
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\obj\Debug\net10.0\Assignment_6.dll
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\obj\Debug\net10.0\refint\Assignment_6.dll
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\obj\Debug\net10.0\Assignment_6.pdb
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\obj\Debug\net10.0\Assignment_6.genruntimeconfig.cache
+D:\CTS\Pranav_Assignments\C#\Inheritance_Assignments\Assignment_6\obj\Debug\net10.0\ref\Assignment_6.dll
