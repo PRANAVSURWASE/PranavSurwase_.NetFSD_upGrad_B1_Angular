@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS\\Pranav_Assignments\\C#\\Exception_handling\\Assignment_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24792008-971F-4B9C-A9A6-A680C6E86A37}|Assignment_1.csproj|d:\\cts\\pranav_assignments\\c#\\exception_handling\\assignment_1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24792008-971F-4B9C-A9A6-A680C6E86A37}|Assignment_1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24792008-971F-4B9C-A9A6-A680C6E86A37}|Assignment_1.csproj|d:\\cts\\pranav_assignments\\c#\\exception_handling\\assignment_1\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24792008-971F-4B9C-A9A6-A680C6E86A37}|Assignment_1.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24792008-971F-4B9C-A9A6-A680C6E86A37}|Assignment_1.csproj|d:\\cts\\pranav_assignments\\c#\\exception_handling\\assignment_1\\checkbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24792008-971F-4B9C-A9A6-A680C6E86A37}|Assignment_1.csproj|solutionrelative:checkbalanceexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\Exception_handling\\Assignment_1\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\Exception_handling\\Assignment_1\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAhwCAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:20:24.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CheckBalanceException.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\Exception_handling\\Assignment_1\\CheckBalanceException.cs",
+              "RelativeDocumentMoniker": "CheckBalanceException.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\Exception_handling\\Assignment_1\\CheckBalanceException.cs",
+              "RelativeToolTip": "CheckBalanceException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:19:33.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\Exception_handling\\Assignment_1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\Exception_handling\\Assignment_1\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:18:30.864Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

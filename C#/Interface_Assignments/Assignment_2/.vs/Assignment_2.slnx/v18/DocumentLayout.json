@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS\\Pranav_Assignments\\C#\\Interface_Assignments\\Assignment_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{71E6FEC3-C01B-434A-903E-17B53505C964}|Assignment_2.csproj|d:\\cts\\pranav_assignments\\c#\\interface_assignments\\assignment_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E6FEC3-C01B-434A-903E-17B53505C964}|Assignment_2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E6FEC3-C01B-434A-903E-17B53505C964}|Assignment_2.csproj|d:\\cts\\pranav_assignments\\c#\\interface_assignments\\assignment_2\\totalsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E6FEC3-C01B-434A-903E-17B53505C964}|Assignment_2.csproj|solutionrelative:totalsales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E6FEC3-C01B-434A-903E-17B53505C964}|Assignment_2.csproj|d:\\cts\\pranav_assignments\\c#\\interface_assignments\\assignment_2\\sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E6FEC3-C01B-434A-903E-17B53505C964}|Assignment_2.csproj|solutionrelative:sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71E6FEC3-C01B-434A-903E-17B53505C964}|Assignment_2.csproj|d:\\cts\\pranav_assignments\\c#\\interface_assignments\\assignment_2\\yearlysales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71E6FEC3-C01B-434A-903E-17B53505C964}|Assignment_2.csproj|solutionrelative:yearlysales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TotalSales.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\Interface_Assignments\\Assignment_2\\TotalSales.cs",
+              "RelativeDocumentMoniker": "TotalSales.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\Interface_Assignments\\Assignment_2\\TotalSales.cs",
+              "RelativeToolTip": "TotalSales.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:45:31.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sales.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\Interface_Assignments\\Assignment_2\\Sales.cs",
+              "RelativeDocumentMoniker": "Sales.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\Interface_Assignments\\Assignment_2\\Sales.cs",
+              "RelativeToolTip": "Sales.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:43:56.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "YearlySales.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\Interface_Assignments\\Assignment_2\\YearlySales.cs",
+              "RelativeDocumentMoniker": "YearlySales.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\Interface_Assignments\\Assignment_2\\YearlySales.cs",
+              "RelativeToolTip": "YearlySales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:40:53.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\Interface_Assignments\\Assignment_2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\Interface_Assignments\\Assignment_2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:39:28.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
