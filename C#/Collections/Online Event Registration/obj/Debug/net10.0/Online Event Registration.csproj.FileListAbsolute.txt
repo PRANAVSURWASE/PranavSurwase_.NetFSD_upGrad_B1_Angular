@@ -1,0 +1,15 @@
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\bin\Debug\net10.0\Online Event Registration.exe
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\bin\Debug\net10.0\Online Event Registration.deps.json
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\bin\Debug\net10.0\Online Event Registration.runtimeconfig.json
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\bin\Debug\net10.0\Online Event Registration.dll
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\bin\Debug\net10.0\Online Event Registration.pdb
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\obj\Debug\net10.0\Online Event Registration.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\obj\Debug\net10.0\Online Event Registration.AssemblyInfoInputs.cache
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\obj\Debug\net10.0\Online Event Registration.AssemblyInfo.cs
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\obj\Debug\net10.0\Online Event Registration.csproj.CoreCompileInputs.cache
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\obj\Debug\net10.0\Online Event Registration.sourcelink.json
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\obj\Debug\net10.0\Online Event Registration.dll
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\obj\Debug\net10.0\refint\Online Event Registration.dll
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\obj\Debug\net10.0\Online Event Registration.pdb
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\obj\Debug\net10.0\Online Event Registration.genruntimeconfig.cache
+D:\CTS\Pranav_Assignments\C#\Collections\Online Event Registration\obj\Debug\net10.0\ref\Online Event Registration.dll

@@ -1,0 +1,15 @@
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\bin\Debug\net10.0\Student Management System.exe
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\bin\Debug\net10.0\Student Management System.deps.json
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\bin\Debug\net10.0\Student Management System.runtimeconfig.json
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\bin\Debug\net10.0\Student Management System.dll
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\bin\Debug\net10.0\Student Management System.pdb
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\obj\Debug\net10.0\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\obj\Debug\net10.0\Student Management System.AssemblyInfoInputs.cache
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\obj\Debug\net10.0\Student Management System.AssemblyInfo.cs
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\obj\Debug\net10.0\Student Management System.csproj.CoreCompileInputs.cache
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\obj\Debug\net10.0\Student Management System.sourcelink.json
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\obj\Debug\net10.0\Student Management System.dll
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\obj\Debug\net10.0\refint\Student Management System.dll
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\obj\Debug\net10.0\Student Management System.pdb
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\obj\Debug\net10.0\Student Management System.genruntimeconfig.cache
+D:\CTS\Pranav_Assignments\C#\Collections\Student Management System\obj\Debug\net10.0\ref\Student Management System.dll

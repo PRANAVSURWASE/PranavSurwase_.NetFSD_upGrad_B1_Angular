@@ -1,0 +1,15 @@
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\bin\Debug\net10.0\E-Commerce Product Catalog.exe
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\bin\Debug\net10.0\E-Commerce Product Catalog.deps.json
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\bin\Debug\net10.0\E-Commerce Product Catalog.runtimeconfig.json
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\bin\Debug\net10.0\E-Commerce Product Catalog.dll
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\bin\Debug\net10.0\E-Commerce Product Catalog.pdb
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.AssemblyInfoInputs.cache
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.AssemblyInfo.cs
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.csproj.CoreCompileInputs.cache
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.sourcelink.json
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.dll
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\obj\Debug\net10.0\refint\E-Commerce Product Catalog.dll
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.pdb
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\obj\Debug\net10.0\E-Commerce Product Catalog.genruntimeconfig.cache
+D:\CTS\Pranav_Assignments\C#\Collections\E-Commerce Product Catalog\obj\Debug\net10.0\ref\E-Commerce Product Catalog.dll

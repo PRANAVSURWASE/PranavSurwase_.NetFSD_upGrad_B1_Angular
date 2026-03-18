@@ -1,0 +1,15 @@
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\obj\Debug\net10.0\Hospital Patient Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\obj\Debug\net10.0\Hospital Patient Queue.AssemblyInfoInputs.cache
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\obj\Debug\net10.0\Hospital Patient Queue.AssemblyInfo.cs
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\obj\Debug\net10.0\Hospital Patient Queue.csproj.CoreCompileInputs.cache
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\obj\Debug\net10.0\Hospital Patient Queue.sourcelink.json
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\bin\Debug\net10.0\Hospital Patient Queue.exe
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\bin\Debug\net10.0\Hospital Patient Queue.deps.json
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\bin\Debug\net10.0\Hospital Patient Queue.runtimeconfig.json
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\bin\Debug\net10.0\Hospital Patient Queue.dll
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\bin\Debug\net10.0\Hospital Patient Queue.pdb
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\obj\Debug\net10.0\Hospital Patient Queue.dll
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\obj\Debug\net10.0\refint\Hospital Patient Queue.dll
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\obj\Debug\net10.0\Hospital Patient Queue.pdb
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\obj\Debug\net10.0\Hospital Patient Queue.genruntimeconfig.cache
+D:\CTS\Pranav_Assignments\C#\Collections\Hospital Patient Queue\obj\Debug\net10.0\ref\Hospital Patient Queue.dll

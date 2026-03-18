@@ -1,0 +1,15 @@
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\bin\Debug\net10.0\Music Playlist System.exe
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\bin\Debug\net10.0\Music Playlist System.deps.json
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\bin\Debug\net10.0\Music Playlist System.runtimeconfig.json
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\bin\Debug\net10.0\Music Playlist System.dll
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\bin\Debug\net10.0\Music Playlist System.pdb
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\obj\Debug\net10.0\Music Playlist System.GeneratedMSBuildEditorConfig.editorconfig
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\obj\Debug\net10.0\Music Playlist System.AssemblyInfoInputs.cache
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\obj\Debug\net10.0\Music Playlist System.AssemblyInfo.cs
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\obj\Debug\net10.0\Music Playlist System.csproj.CoreCompileInputs.cache
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\obj\Debug\net10.0\Music Playlist System.sourcelink.json
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\obj\Debug\net10.0\Music Playlist System.dll
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\obj\Debug\net10.0\refint\Music Playlist System.dll
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\obj\Debug\net10.0\Music Playlist System.pdb
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\obj\Debug\net10.0\Music Playlist System.genruntimeconfig.cache
+D:\CTS\Pranav_Assignments\C#\Collections\Music Playlist System\obj\Debug\net10.0\ref\Music Playlist System.dll
