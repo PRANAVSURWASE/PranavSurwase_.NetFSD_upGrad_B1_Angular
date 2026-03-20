@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS\\Pranav_Assignments\\C#\\FileHandling_Assignments\\Assignment_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75AE921D-0CB5-47C4-AD50-4B8025E731E1}|Assignment_3.csproj|d:\\cts\\pranav_assignments\\c#\\filehandling_assignments\\assignment_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AE921D-0CB5-47C4-AD50-4B8025E731E1}|Assignment_3.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\FileHandling_Assignments\\Assignment_3\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\FileHandling_Assignments\\Assignment_3\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-20T09:35:51.945Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
