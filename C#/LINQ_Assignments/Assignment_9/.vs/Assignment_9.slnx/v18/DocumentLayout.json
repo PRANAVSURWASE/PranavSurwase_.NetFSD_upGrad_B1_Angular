@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS\\Pranav_Assignments\\C#\\LINQ_Assignments\\Assignment_9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{423E19D7-C8A5-44DE-8A5A-2DC7C877A82B}|Assignment_9.csproj|d:\\cts\\pranav_assignments\\c#\\linq_assignments\\assignment_9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423E19D7-C8A5-44DE-8A5A-2DC7C877A82B}|Assignment_9.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{423E19D7-C8A5-44DE-8A5A-2DC7C877A82B}|Assignment_9.csproj|d:\\cts\\pranav_assignments\\c#\\linq_assignments\\assignment_9\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{423E19D7-C8A5-44DE-8A5A-2DC7C877A82B}|Assignment_9.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\LINQ_Assignments\\Assignment_9\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\LINQ_Assignments\\Assignment_9\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:29:58.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\C#\\LINQ_Assignments\\Assignment_9\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\C#\\LINQ_Assignments\\Assignment_9\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAcwEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T12:29:39.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
