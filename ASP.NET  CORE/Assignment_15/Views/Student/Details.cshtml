@@ -1,0 +1,76 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+      <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Details</title>
+     <style>
+        body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+            padding: 40px;
+        }
+
+        .card {
+            width: 350px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px gray;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        .eligible {
+            color: green;
+            font-weight: bold;
+        }
+
+        .not-eligible {
+            color: red;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    @{
+        ViewData["Title"]= "Student Details";
+
+        string name = ViewData["Name"]?.ToString();
+        int age = Convert.ToInt32(ViewData["Age"]);
+
+
+
+    }
+
+    <div class="card">
+        <h2>@ViewData["Message"]</h2>
+        </hr>
+
+        <p>Name: @name</p>
+        <p>Age: @age</p>
+
+        </hr>
+
+        @if(age>18)
+        {
+            <p class="eligible">Eligible</p>
+        }
+        else
+        {
+             <p class="not-eligible">Not Eligible</p>
+        }
+
+
+    </div>
+</body>
+</html>
