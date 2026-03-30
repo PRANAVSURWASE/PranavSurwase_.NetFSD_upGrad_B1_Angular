@@ -1,0 +1,45 @@
+﻿@model Assignment_6.Models.Student
+
+<h2>Create Student</h2>
+
+<div asp-validation-summary="All" style="color:red"></div>
+
+<form asp-action="Create" method="post">
+    <table border="1" cellpadding="10">
+
+        <tr>
+            <td>Name</td>
+            <td>
+                <input asp-for="Name" />
+                <span asp-validation-for="Name" style="color:red"></span>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Age</td>
+            <td>
+                <input asp-for="Age" />
+                <span asp-validation-for="Age" style="color:red"></span>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Email</td>
+            <td>
+                <input asp-for="Email" />
+                <span asp-validation-for="Email" style="color:red"></span>
+            </td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <button type="submit">Save</button>
+            </td>
+        </tr>
+
+    </table>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

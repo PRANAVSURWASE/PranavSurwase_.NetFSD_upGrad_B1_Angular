@@ -1,0 +1,40 @@
+﻿@model Assignment_5.Models.Student
+
+@{
+    ViewData["Title"] = "Edit";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Edit Student</h1>
+
+<form asp-action="Edit" method="post">
+    <table border="1" cellpadding="10">
+        <tr>
+            <td><label>Id</label></td>
+            <td>
+                <input asp-for="Id" readonly />
+            </td>
+        </tr>
+
+        <tr>
+            <td><label>Name</label></td>
+            <td><input asp-for="Name" /></td>
+        </tr>
+
+        <tr>
+            <td><label>Age</label></td>
+            <td><input asp-for="Age" /></td>
+        </tr>
+
+        <tr>
+            <td><label>Email</label></td>
+            <td><input asp-for="Email" /></td>
+        </tr>
+
+        <tr>
+            <td colspan="2">
+                <button type="submit">Update</button>
+            </td>
+        </tr>
+    </table>
+</form>
