@@ -1,0 +1,36 @@
+﻿@model Assignment_7.Models.Person
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@* <h1>Index</h1> *@
+
+@using(Html.BeginForm())
+{
+    <div>
+        <label>Name:</label>
+        @Html.TextBoxFor(m=>m.Name)
+        @Html.ValidationMessageFor(m=>m.Name)
+    </div>
+
+    <div>
+        <label>Age:</label>
+        @Html.TextBoxFor(m=>m.Age)
+        @Html.ValidationMessageFor(m=>m.Age)
+    </div>
+
+    <div>
+        <label>Email:</label>
+        @Html.TextBoxFor(m=>m.Email)
+        @Html.ValidationMessageFor(m => m.Email)
+    </div>
+    <br />
+    <input type="submit" value="Submit" />
+
+}
+@if (ViewBag.Message != null)
+{
+    <p style="color:green">@ViewBag.Message</p>
+}
+
