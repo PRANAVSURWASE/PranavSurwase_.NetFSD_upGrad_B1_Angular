@@ -1,0 +1,428 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:services\\patientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:services\\ipatientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\dtos\\patientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:dtos\\patientcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:services\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\repository\\genericrepoository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:repository\\genericrepoository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\dtos\\patientreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:dtos\\patientreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\healthcareapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:healthcareapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Migrations\\20260413105801_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260413105801_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|d:\\cts\\pranav_assignments\\asp.net core web api\\healthcareapi\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5236A4F3-02F2-42C9-A557-EC5C7FCD3A96}|HealthCareAPI.csproj|solutionrelative:models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "Services\\TokenService.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Services\\TokenService.cs",
+              "RelativeToolTip": "Services\\TokenService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:46:08.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:32:08.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Models\\Patient.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Models\\Patient.cs",
+              "RelativeToolTip": "Models\\Patient.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:37:14.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:39:38.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-13T10:42:48.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAUwEAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:53:02.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientController.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "Controllers\\PatientController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAmwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:02:53.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientCreateDto.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\DTOs\\PatientCreateDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PatientCreateDto.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\DTOs\\PatientCreateDto.cs",
+              "RelativeToolTip": "DTOs\\PatientCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:07:30.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:31:14.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PatientService.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Services\\PatientService.cs",
+              "RelativeDocumentMoniker": "Services\\PatientService.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Services\\PatientService.cs",
+              "RelativeToolTip": "Services\\PatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:06:06.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IPatientService.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Services\\IPatientService.cs",
+              "RelativeDocumentMoniker": "Services\\IPatientService.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Services\\IPatientService.cs",
+              "RelativeToolTip": "Services\\IPatientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:09:56.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Services\\IAuthService.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:35:43.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Services\\AuthService.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Services\\AuthService.cs",
+              "RelativeToolTip": "Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:36:19.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Services\\ITokenService.cs",
+              "RelativeDocumentMoniker": "Services\\ITokenService.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Services\\ITokenService.cs",
+              "RelativeToolTip": "Services\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:41:45.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GenericRepoository.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Repository\\GenericRepoository.cs",
+              "RelativeDocumentMoniker": "Repository\\GenericRepoository.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Repository\\GenericRepoository.cs",
+              "RelativeToolTip": "Repository\\GenericRepoository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:15:33.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IGenericRepository.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:14:32.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PatientReadDto.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\DTOs\\PatientReadDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\PatientReadDto.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\DTOs\\PatientReadDto.cs",
+              "RelativeToolTip": "DTOs\\PatientReadDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:08:15.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T11:01:24.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20260413105801_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Migrations\\20260413105801_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260413105801_InitialCreate.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Migrations\\20260413105801_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260413105801_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:58:02.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Database\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Database\\AppDbContext.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Database\\AppDbContext.cs",
+              "RelativeToolTip": "Database\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:40:47.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "HealthCareAPI",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\HealthCareAPI.csproj",
+              "RelativeDocumentMoniker": "HealthCareAPI.csproj",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\HealthCareAPI.csproj",
+              "RelativeToolTip": "HealthCareAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-13T10:40:10.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Models\\Prescription.cs",
+              "RelativeDocumentMoniker": "Models\\Prescription.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Models\\Prescription.cs",
+              "RelativeToolTip": "Models\\Prescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:38:56.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "Models\\Appointment.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Models\\Appointment.cs",
+              "RelativeToolTip": "Models\\Appointment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:38:20.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "Models\\Doctor.cs",
+              "ToolTip": "D:\\CTS\\Pranav_Assignments\\ASP.NET CORE WEB API\\HealthCareAPI\\Models\\Doctor.cs",
+              "RelativeToolTip": "Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T10:37:56.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
