@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "FlightService.Controllers.FlightsController",
-    "Method": "GetAll",
+    "Method": "GetFlights",
     "RelativePath": "api/Flights",
     "HttpMethod": "GET",
     "IsController": true,
@@ -11,15 +11,15 @@
   },
   {
     "ContainingType": "FlightService.Controllers.FlightsController",
-    "Method": "Create",
+    "Method": "AddFlight",
     "RelativePath": "api/Flights",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "flight",
-        "Type": "FlightService.Model.Flight",
+        "Name": "flightDto",
+        "Type": "FlightService.DTOs.FlightDTO",
         "IsRequired": true
       }
     ],
@@ -27,7 +27,7 @@
   },
   {
     "ContainingType": "FlightService.Controllers.FlightsController",
-    "Method": "GetById",
+    "Method": "GetFlight",
     "RelativePath": "api/Flights/{id}",
     "HttpMethod": "GET",
     "IsController": true,

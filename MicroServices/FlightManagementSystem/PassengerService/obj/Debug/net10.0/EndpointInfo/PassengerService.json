@@ -56,6 +56,9 @@
   "components": {
     "schemas": {
       "Passenger": {
+        "required": [
+          "name"
+        ],
         "type": "object",
         "properties": {
           "passengerId": {
@@ -70,6 +73,8 @@
             "type": "string"
           },
           "age": {
+            "maximum": 120,
+            "minimum": 1,
             "pattern": "^-?(?:0|[1-9]\\d*)$",
             "type": [
               "integer",

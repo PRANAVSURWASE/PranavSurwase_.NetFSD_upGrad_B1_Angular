@@ -11,10 +11,6 @@
         "Action": "Start"
       },
       {
-        "Path": "PassengerService\\PassengerService.csproj",
-        "Action": "Start"
-      },
-      {
         "Path": "ApiGateway\\ApiGateway.csproj",
         "Action": "Start"
       }

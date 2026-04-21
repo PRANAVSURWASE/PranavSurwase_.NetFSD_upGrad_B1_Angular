@@ -1,14 +1,9 @@
 {
-  "openapi": "3.1.1",
+  "openapi": "3.0.4",
   "info": {
-    "title": "FlightService | v1",
-    "version": "1.0.0"
+    "title": "FlightService",
+    "version": "1.0"
   },
-  "servers": [
-    {
-      "url": "http://localhost:5024"
-    }
-  ],
   "paths": {
     "/api/Flights": {
       "get": {
@@ -29,21 +24,20 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Flight"
+                "$ref": "#/components/schemas/FlightDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Flight"
+                "$ref": "#/components/schemas/FlightDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Flight"
+                "$ref": "#/components/schemas/FlightDTO"
               }
             }
-          },
-          "required": true
+          }
         },
         "responses": {
           "200": {
@@ -63,11 +57,7 @@
             "in": "path",
             "required": true,
             "schema": {
-              "pattern": "^-?(?:0|[1-9]\\d*)$",
-              "type": [
-                "integer",
-                "string"
-              ],
+              "type": "integer",
               "format": "int32"
             }
           }
@@ -82,27 +72,31 @@
   },
   "components": {
     "schemas": {
-      "Flight": {
+      "FlightDTO": {
         "type": "object",
         "properties": {
-          "id": {
-            "pattern": "^-?(?:0|[1-9]\\d*)$",
-            "type": [
-              "integer",
-              "string"
-            ],
-            "format": "int32"
-          },
           "flightNumber": {
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "source": {
-            "type": "string"
+            "type": "string",
+            "nullable": true
           },
           "destination": {
-            "type": "string"
+            "type": "string",
+            "nullable": true
+          },
+          "departureTime": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "price": {
+            "type": "number",
+            "format": "double"
           }
-        }
+        },
+        "additionalProperties": false
       }
     }
   },

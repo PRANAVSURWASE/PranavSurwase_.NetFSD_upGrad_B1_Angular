@@ -1,4 +1,6 @@
-﻿using BookingService.Model;
+﻿using BookingService.DTOs;
+using BookingService.Model;
+using BookingService.Service;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,25 +10,27 @@ namespace BookingService.Controllers
     [ApiController]
     public class BookingsController : ControllerBase
     {
-        private static List<Booking> bookings = new List<Booking>()
+        private readonly IBookingService _service;
+
+        public BookingsController(IBookingService service)
         {
-            new Booking{BookingId=1001,FlightId=4332,PassengerId=1},
-             new Booking{BookingId=1002,FlightId=4222,PassengerId=2}
+            _service = service;
+            
+        }
 
-
-        };
 
         [HttpGet]
-        public IActionResult GetAll()
+        public async Task<IActionResult> Get()
         {
-            return Ok(bookings);
+            var booking = await _service.GetBookingsAsync();
+            return Ok(booking);
         }
 
         [HttpPost]
-        public IActionResult Create(Booking booking)
+        public async Task<IActionResult> Create(BookingDTO dto)
         {
-            bookings.Add(booking);
-            return Ok(bookings);
+            var res = await _service.AddBookingAsync(dto);
+            return Ok(res);
         }
     }
 

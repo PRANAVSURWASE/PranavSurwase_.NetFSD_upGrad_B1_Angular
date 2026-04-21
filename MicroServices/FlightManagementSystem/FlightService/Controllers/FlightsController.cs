@@ -1,4 +1,6 @@
-﻿using FlightService.Model;
+﻿using FlightService.DTOs;
+using FlightService.Model;
+using FlightService.Service;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
@@ -8,30 +10,35 @@ namespace FlightService.Controllers
     [ApiController]
     public class FlightsController : ControllerBase
     {
-        private static List<Flight> flights = new List<Flight>
+
+        private readonly IFlightService _service;
+
+        public FlightsController(IFlightService service)
         {
-            new Flight{Id =4332,FlightNumber = "AI101", Source = "Hyderabad", Destination = "Delhi"},
-            new Flight{Id =4222,FlightNumber = "BI202", Source = "Pune", Destination = "NYC"}
-
-        };
-
+            _service = service;
+            
+        }
         [HttpGet]
-        public IActionResult GetAll()
+        public async Task<IActionResult> GetFlights()
         {
-            return Ok(flights);
+            var result = await _service.GetFlightsAsync();
+            return Ok(result);
         }
 
         [HttpGet("{id}")]
-        public IActionResult GetById(int id)
+        public async Task<IActionResult> GetFlight(int id)
         {
-            var flight = flights.FirstOrDefault(x => x.Id == id);
-            return Ok(flight);
+            var result = await _service.GetFlightByIdAsync(id);
+            if (result == null)
+                return NotFound();
+            return Ok(result);
         }
         [HttpPost]
-        public IActionResult Create([FromBody] Flight flight)
+        public async Task<IActionResult> AddFlight(FlightDTO flightDto)
         {
-            flights.Add(flight);
-            return Ok(flight);
+            var result = await _service.AddFlightAsync(flightDto);
+            return Ok(result);
+          
 
         }
     

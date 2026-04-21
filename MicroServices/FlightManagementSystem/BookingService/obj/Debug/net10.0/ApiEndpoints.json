@@ -1,7 +1,7 @@
 [
   {
     "ContainingType": "BookingService.Controllers.BookingsController",
-    "Method": "GetAll",
+    "Method": "Get",
     "RelativePath": "api/Bookings",
     "HttpMethod": "GET",
     "IsController": true,
@@ -18,8 +18,8 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "booking",
-        "Type": "BookingService.Model.Booking",
+        "Name": "dto",
+        "Type": "BookingService.DTOs.BookingDTO",
         "IsRequired": true
       }
     ],
